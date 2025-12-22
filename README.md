@@ -1,4 +1,4 @@
-## 📬 Sales & GTM Newsletter Index — **No Duplicates, Verified Links**
+## 📬 The Best Sales & GTM Newsletters
 
 ---
 
