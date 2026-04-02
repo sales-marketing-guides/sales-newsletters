@@ -62,7 +62,7 @@
 
 ## 📰 Industry News & Aggregators
 
-1. **[Hot Lead](https://hot-lead.beehiiv.com/)** – Curated takeaways from top sales newsletters.
+1. **[GTM News](https://gotomarket.news)** – Curated takeaways from top sales newsletters.
    `#CuratedIntel #SalesNews`
 
 2. **[The Quota Newsletter](https://www.thequota.co/)** – Weekly sales industry news & commentary.
